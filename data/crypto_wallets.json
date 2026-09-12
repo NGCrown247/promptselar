@@ -1,0 +1,14 @@
+[
+  {
+    "id": "wallet-usdt-trc20",
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "network": "TRON / TRC-20",
+    "address": "TJkVdSdjVf92U3bJoqhiqyP1rHyF78RHLB",
+    "memo": "",
+    "instructions": "Send exact USDT amount using TRON (TRC-20) network for instant on-chain verification.",
+    "isDefault": true,
+    "isEnabled": true,
+    "createdAt": "2026-09-11T09:31:28.416Z"
+  }
+]

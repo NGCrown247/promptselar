@@ -1,0 +1,6 @@
+{
+  "name": "CalebPrompt",
+  "description": "Clean, modern marketplace for viral AI video generation prompts with USDT payment verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
